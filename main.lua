@@ -1,4 +1,4 @@
 function abc()
 	local a = 12;
-	print(a)
+	print(“123”)
 end
